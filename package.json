@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.3",
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
@@ -12,9 +14,13 @@
     "@types/react": "^17.0.43",
     "@types/react-dom": "^17.0.14",
     "axios": "^0.26.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-minimal-pie-chart": "^8.2.0",
     "react-query": "^3.34.17",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "5.0.0",
     "recoil": "^0.6.1",
     "rxjs": "^7.5.5",
@@ -46,6 +52,8 @@
     ]
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.180",
+    "@types/react-router-dom": "^5.3.3",
     "@typescript-eslint/eslint-plugin": "^5.16.0",
     "@typescript-eslint/parser": "^5.16.0",
     "craco-alias": "^3.0.1",
@@ -56,5 +64,6 @@
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.3.0"
-  }
+  },
+  "homepage": "/summoners/Hide on Bush"
 }

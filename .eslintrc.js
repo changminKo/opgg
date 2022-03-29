@@ -19,5 +19,7 @@ module.exports = {
     "react/function-component-definition": "off",
     "import/prefer-default-export": "off",
     "import/extensions": "off",
+    "react/no-array-index-key": "off",
+    "max-len": ["error", { "code": 180 }]
   },
 };
